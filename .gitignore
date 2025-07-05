@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+.venv1/
+env/
+venv/
+
+# IDE & system files
+.idea/
+.vscode/
+*.log
+*.DS_Store
+
+# Environment variables
+.env
